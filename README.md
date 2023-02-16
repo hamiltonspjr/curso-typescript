@@ -41,4 +41,4 @@ tsc -w
 <strong> Hamilton de Souza </strong>
 <br>
 
-<a href="https://www.linkedin.com/in/hamilton-junior-34451018a/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin"></a>
+<a href="https://www.linkedin.com/in/hamilton-de-souza-34451018a/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin"></a>
